@@ -40,7 +40,7 @@ My work and technical interests include:
 - Building and maintaining ETL/ELT data pipelines.
 - Developing cloud-based data integration and warehouse solutions.
 - Working with Python and SQL for data processing and transformation.
-- Automating workflows using Apache Airflow and Python/cron.
+- Automating workflows using Apache Airflow and Python/cron, reducing manual effort by approximately 30% and improving pipeline consistency.
 - Implementing data-quality checks to improve data reliability.
 - Exploring data engineering foundations for AI-powered applications.
 
@@ -50,6 +50,13 @@ across Canada, including remote roles.
 🌐 **Portfolio:** [Explore my portfolio](https://benevolent-wisp-556282.netlify.app/)
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
+
+---
+
+## 💡 Engineering Impact
+
+- Automated data-processing workflows with Apache Airflow and Python/cron, reducing manual effort by approximately **30%** and improving pipeline consistency.
+- Emphasize data-quality checks within ETL workflows to help improve the reliability of downstream data use.
 
 ---
 
