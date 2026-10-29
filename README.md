@@ -103,7 +103,7 @@ across Canada, including remote roles.
 
 ## 🚀 Featured Projects
 
-### 1. Customer Account Analysis Pipeline
+### 1. Global E-Commerce Sales Data Pipeline on Azure
 
 **Technologies:** Azure Data Factory, Azure Data Lake Storage Gen2,
 Azure Synapse Analytics, PySpark, SQL
@@ -124,26 +124,7 @@ analytics-ready tables.
 
 🔗 [View Project on GitHub](https://github.com/shahinashiny/Customer_Account_Analysis_Pipeline_Shahina)
 
-### 2. Retail Sales Summary Tool
-
-**Technologies:** Python, pandas, data cleaning, data analysis
-
-A Python project that analyzes retail sales data to summarize
-sales performance, profitability, product performance, and
-customer contributions.
-
-**Project focus:**
-- Loading and cleaning datasets.
-- Summarizing sales and profit.
-- Analyzing categories and subcategories.
-- Identifying top products and customers.
-
-🔗 [View Repository](https://github.com/shahinashiny/Assignment2_Retail_Sales_Summary_Tool)
-
-*Note: This repository may be private. Make it public before sharing
-it with recruiters, provided its contents can be shared.*
-
-### 3. Personal Portfolio Website
+### 2. Personal Portfolio Website
 
 A personal website showcasing my background, technical skills,
 projects, and professional experience.
