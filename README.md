@@ -29,7 +29,7 @@ I design and build data pipelines, cloud data workflows, and analytics-ready dat
 | Monitoring and observability | AWS CloudWatch, Prometheus, logging, alerting, root cause analysis |
 | Analytics and collaboration | Power BI, Tableau, Jira, ServiceNow, Agile, Scrum, SDLC |
 
-## Featured projects
+## Projects
 
 ### 1. University Student & Staff Attendance Intelligence Platform
 
