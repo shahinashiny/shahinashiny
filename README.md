@@ -1,166 +1,72 @@
+# Hi, I'm Shahina Shaik 👋
 
-<h1 align="center">Hi, I'm Shahina Shaik 👋</h1>
+**Data Engineer | Cloud Data Engineering | Data & AI**
 
-<h3 align="center">
-  Data Engineer | Cloud Data Engineering | Data & AI
-</h3>
+I design and build data pipelines, cloud data workflows, and analytics-ready datasets. My background includes Python, SQL, Spark, Kafka, Airflow, AWS, Azure Data Factory, Snowflake, Amazon Redshift, and Google BigQuery.
 
-<p align="center">
-  Building reliable data pipelines, scalable data solutions, and
-  analytics-ready data platforms.
-</p>
+[LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a) · [Portfolio](https://benevolent-wisp-556282.netlify.app/) · [Email](mailto:Shahina1394@careerattainment.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahina-shaik-8ba21a24a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shahinashiny">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://benevolent-wisp-556282.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A7EA4?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
-  </a>
-</p>
+## About
 
----
+- **Professional experience:** Data Engineer at LatentView Analytics, India (January 2023 – December 2024).
+- **Education:** M.S. in Data Analytics, University of Niagara Falls, Ontario, Canada (July 2025).
+- **Focus areas:** ETL/ELT engineering, cloud data platforms, batch and real-time processing, orchestration, data quality, data warehousing, and analytics enablement.
+- **Engineering impact:** Automated data-processing workflows using Apache Airflow and Python/cron, reducing manual processing effort by approximately **30%** and improving pipeline consistency.
 
-## 👩‍💻 About Me
+## Technical skills
 
-I'm Shahina Shaik, a Data Engineer with approximately 3 years
-of professional experience at LatentView Analytics, focused on
-data engineering, ETL/ELT workflows, cloud data platforms, and
-data automation.
+| Area | Technologies and practices |
+|---|---|
+| Programming and querying | Python, SQL, Scala, Bash, Shell Scripting, Spark SQL |
+| Data engineering and processing | Apache Spark, batch processing, real-time processing, ETL, ELT, data integration, data transformation, REST APIs |
+| Orchestration and ingestion | Apache Airflow, AWS Glue, Azure Data Factory, Talend, workflow automation, pipeline scheduling |
+| Cloud | AWS (S3, EC2, Lambda, EMR, Athena, Redshift, CloudWatch), Azure |
+| Warehousing and databases | Snowflake, Amazon Redshift, Google BigQuery, PostgreSQL, MySQL, MongoDB, Cassandra |
+| Streaming | Apache Kafka, event streaming, real-time data pipelines, stream processing |
+| Data modeling and optimization | Data modeling, schema design, normalization, partitioning, indexing, query optimization, performance tuning |
+| Quality, governance and security | Data validation, profiling, reconciliation, governance, RBAC, encryption, audit logging, data retention, HIPAA, PHI |
+| DevOps and automation | Git, Docker, Kubernetes, Jenkins, CI/CD, Ansible, Maven |
+| Monitoring and observability | AWS CloudWatch, Prometheus, logging, alerting, root cause analysis |
+| Analytics and collaboration | Power BI, Tableau, Jira, ServiceNow, Agile, Scrum, SDLC |
 
-I enjoy transforming raw data into reliable, well-structured
-datasets that support analytics, business intelligence, and
-data-driven decision-making.
+## Featured projects
 
-My work and technical interests include:
+### 1. University Student & Staff Attendance Intelligence Platform
 
-- Building and maintaining ETL/ELT data pipelines.
-- Developing cloud-based data integration and warehouse solutions.
-- Working with Python and SQL for data processing and transformation.
-- Automating workflows using Apache Airflow and Python/cron, reducing manual effort by approximately 30% and improving pipeline consistency.
-- Implementing data-quality checks to improve data reliability.
-- Exploring data engineering foundations for AI-powered applications.
+**Data Engineer / Data Analytics Project · February 2026 – Present**
 
-🎯 **Career Focus:** Data Engineer and Data & AI Engineer opportunities
-across Canada, including remote roles.
+An end-to-end attendance data pipeline integrating attendance records, class schedules, courses, faculty information, and engagement data. The project description covers automated ingestion, transformation, validation, feature engineering, curated datasets, Power BI reporting, attendance-risk analysis, and MLflow tracking.
 
-🌐 **Portfolio:** [Explore my portfolio](https://benevolent-wisp-556282.netlify.app/)
+**Stack:** Python, SQL, Apache Airflow, REST APIs, AWS S3, PostgreSQL, Apache Spark, Power BI, Pandas, NumPy, Scikit-learn, XGBoost, Docker, Git, MLflow.
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
+[Read the project case study](https://github.com/shahinashiny/Shahina-Portfolio/blob/main/projects/student-staff-attendance-intelligence/README.md) · [View portfolio](https://benevolent-wisp-556282.netlify.app/#work)
 
----
+*The linked case study is documentation based on the resume; runnable project source code and a live demo are not currently published in this repository.*
 
-## 💡 Engineering Impact
+### 2. Global E-Commerce Sales Data Pipeline on Azure
 
-- Automated data-processing workflows with Apache Airflow and Python/cron, reducing manual effort by approximately **30%** and improving pipeline consistency.
-- Emphasize data-quality checks within ETL workflows to help improve the reliability of downstream data use.
+An Azure workflow that ingests sales CSV files through Azure Data Factory, stores source data in ADLS Gen2, transforms and validates records with Synapse PySpark, writes cleaned Parquet data, and queries the results using Synapse Serverless SQL. The repository also includes SQL quality checks and execution documentation.
 
----
+[View project repository](https://github.com/shahinashiny/Customer_Account_Analysis_Pipeline_Shahina)
 
-## 🛠️ Technical Skills
+### 3. Retail Sales Summary Tool
 
-### Programming & Data Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+A Python and pandas analytics workflow for cleaning retail transactions, calculating sales and profit summaries, ranking products and customers, and generating visualizations. The repository includes pytest coverage and GitHub Actions CI with Ruff checks.
 
-### Cloud & Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+[View project repository](https://github.com/shahinashiny/Assignment2_Retail_Sales_Summary_Tool)
 
-- AWS Glue
-- Azure Data Factory
-- Amazon Redshift
-- Google BigQuery
-- Cloud data warehousing
-- ETL/ELT pipeline development
+### 4. Personal Portfolio Website
 
-### Orchestration & Automation
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+A responsive static portfolio built with HTML, CSS, and JavaScript.
 
-- Apache Airflow
-- Python and cron-based automation
-- Workflow orchestration
-- Data validation and quality checks
-- Pipeline monitoring and reliability
+[Visit the live portfolio](https://benevolent-wisp-556282.netlify.app/) · [View the source repository](https://github.com/shahinashiny/Shahina-Portfolio)
 
-### Data Analytics & Engineering Practices
+## Let's connect
 
-- Data cleaning and transformation
-- Data integration and warehousing
-- SQL-based analytics
-- Business intelligence reporting
-- Data-quality validation
-- Reliable and maintainable data workflows
+I'm interested in connecting with data engineering professionals and teams working on cloud data platforms, reliable pipelines, analytics engineering, and data and AI solutions.
 
----
+- [LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
+- [Portfolio](https://benevolent-wisp-556282.netlify.app/)
+- [GitHub repositories](https://github.com/shahinashiny?tab=repositories)
 
-## 🚀 Featured Projects
-
-### 1. Global E-Commerce Sales Data Pipeline on Azure
-
-**Technologies:** Azure Data Factory, Azure Data Lake Storage Gen2,
-Azure Synapse Analytics, PySpark, SQL
-
-An end-to-end Azure data engineering project designed to move data
-from source files through cloud storage and processing into
-analytics-ready tables.
-
-**Pipeline flow:**
-
-`CSV Files → Azure Data Factory → ADLS Gen2 → Synapse Spark → Synapse SQL`
-
-**Project focus:**
-- Cloud-based data ingestion and integration.
-- Data transformation using PySpark.
-- SQL-based analytics.
-- Structured data processing workflows.
-
-🔗 [View Project on GitHub](https://github.com/shahinashiny/Customer_Account_Analysis_Pipeline_Shahina)
-
-### 2. Personal Portfolio Website
-
-A personal website showcasing my background, technical skills,
-projects, and professional experience.
-
-🔗 [Visit Live Portfolio](https://benevolent-wisp-556282.netlify.app/)
-
-🔗 [View Portfolio Source Code](https://github.com/shahinashiny/Shahina-Portfolio)
-
----
-
-## 📈 What I'm Working Toward
-
-I am continuing to strengthen my data engineering expertise by
-focusing on:
-
-- Designing scalable, maintainable data pipelines.
-- Improving data quality and workflow automation.
-- Developing stronger cloud data warehousing skills.
-- Building practical projects involving Python, SQL, Spark,
-  and orchestration tools.
-- Exploring reliable data foundations for AI and analytics solutions.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with data engineering professionals,
-recruiters, hiring managers, and technology communities across Canada.
-
-If you're working on cloud data platforms, data pipelines,
-analytics engineering, or data and AI solutions, I'd be happy to connect.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
-- 💻 [GitHub](https://github.com/shahinashiny)
-- 🌐 [Portfolio](https://benevolent-wisp-556282.netlify.app/)
-
-<p align="center">
-  <i>Turning data into reliable pipelines and meaningful insights.</i>
-</p>
+*Turning data into reliable pipelines and meaningful insights.*
