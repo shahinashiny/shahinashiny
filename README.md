@@ -1,72 +1,68 @@
 # Hi, I'm Shahina Shaik 👋
 
-**Data Engineer | Cloud Data Engineering | Data & AI**
+**Data Engineer | Python | SQL | AWS | Snowflake**
 
-I design and build data pipelines, cloud data workflows, and analytics-ready datasets. My background includes Python, SQL, Spark, Kafka, Airflow, AWS, Azure Data Factory, Snowflake, Amazon Redshift, and Google BigQuery.
+Toronto, Ontario, Canada
 
-[LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a) · [Portfolio](https://benevolent-wisp-556282.netlify.app/) · [Email](mailto:Shahina1394@careerattainment.com)
+I am a Data Engineer with **4+ years of experience** building ETL/ELT pipelines, cloud data platforms, and analytics datasets. I work with Python, SQL, PySpark, Kafka, Airflow, AWS, and Snowflake across batch and streaming workflows. My strengths include data validation, query optimization, workflow automation, and pipeline troubleshooting.
 
-## About
+[LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a) · [Portfolio](https://shahinashiny.github.io/Shahina-Portfolio/) · [Email](mailto:Shaikshahina1394@careerattainment.com)
 
-- **Professional experience:** Data Engineer at LatentView Analytics, India (January 2023 – December 2024).
-- **Education:** M.S. in Data Analytics, University of Niagara Falls, Ontario, Canada (July 2025).
-- **Focus areas:** ETL/ELT engineering, cloud data platforms, batch and real-time processing, orchestration, data quality, data warehousing, and analytics enablement.
-- **Engineering impact:** Automated data-processing workflows using Apache Airflow and Python/cron, reducing manual processing effort by approximately **30%** and improving pipeline consistency.
+## Professional Experience
 
-## Technical skills
+### LYFT — Data Engineer
+**Canada | August 2026 – Present**
 
-| Area | Technologies and practices |
+- Built streaming ingestion pipelines with Apache Kafka and PySpark to process transaction and payment events for downstream fraud analysis and machine learning.
+- Integrated transaction histories, customer profiles, and payment gateway records using AWS Glue and Snowflake for fraud risk analysis and model training.
+- Developed Python and SQL feature-engineering pipelines to calculate transaction frequency and spending velocity.
+- Orchestrated workflows with Apache Airflow, including dependencies, incremental loads, and scheduled Amazon S3 refreshes; reduced processing time from **90 to 65 minutes**.
+- Optimized Spark SQL transformations through partitioning and incremental processing, and tuned Snowflake queries.
+- Implemented Great Expectations checks for missing transactions and schema changes, and monitored pipeline failures with AWS CloudWatch.
+
+### Observe.AI — Data Engineer
+**India | January 2021 – December 2024**
+
+- Built ETL/ELT pipelines using AWS Glue, Azure Data Factory, Python, and Snowflake to integrate relational database and REST API data for enterprise analytics.
+- Optimized SQL queries, transformations, and Amazon Redshift storage structures for business intelligence reporting.
+- Automated recurring ingestion and processing with Apache Airflow and Python, reducing manual processing effort by approximately **30%** while improving scheduling consistency and pipeline reliability.
+- Implemented SQL and Python checks for duplicate, incomplete, and inconsistent records; used CloudWatch and Prometheus to investigate processing failures and data-quality issues.
+- Containerized data-processing applications with Docker and Kubernetes and coordinated API integrations and reusable data connectors.
+
+## Technical Skills
+
+| Category | Skills |
 |---|---|
-| Programming and querying | Python, SQL, Scala, Bash, Shell Scripting, Spark SQL |
-| Data engineering and processing | Apache Spark, batch processing, real-time processing, ETL, ELT, data integration, data transformation, REST APIs |
-| Orchestration and ingestion | Apache Airflow, AWS Glue, Azure Data Factory, Talend, workflow automation, pipeline scheduling |
-| Cloud | AWS (S3, EC2, Lambda, EMR, Athena, Redshift, CloudWatch), Azure |
-| Warehousing and databases | Snowflake, Amazon Redshift, Google BigQuery, PostgreSQL, MySQL, MongoDB, Cassandra |
-| Streaming | Apache Kafka, event streaming, real-time data pipelines, stream processing |
-| Data modeling and optimization | Data modeling, schema design, normalization, partitioning, indexing, query optimization, performance tuning |
-| Quality, governance and security | Data validation, profiling, reconciliation, governance, RBAC, encryption, audit logging, data retention, HIPAA, PHI |
-| DevOps and automation | Git, Docker, Kubernetes, Jenkins, CI/CD, Ansible, Maven |
-| Monitoring and observability | AWS CloudWatch, Prometheus, logging, alerting, root cause analysis |
-| Analytics and collaboration | Power BI, Tableau, Jira, ServiceNow, Agile, Scrum, SDLC |
+| Programming and Processing | Python, SQL, PySpark, Spark SQL |
+| Pipelines and Integration | ETL/ELT, Apache Airflow, Apache Kafka, REST API integration, incremental loading |
+| Cloud and Data Platforms | AWS (S3, Glue, CloudWatch), Azure Data Factory, Snowflake, Amazon Redshift, PostgreSQL |
+| Modeling and Performance | Data warehousing, schema design, query tuning, partitioning |
+| Quality and Reliability | Great Expectations, SQL/Python validation, Prometheus, root cause analysis |
+| Development and Deployment | Git, Docker, Kubernetes, secure data access |
+| Analytics and ML Projects | Power BI, Pandas, NumPy, scikit-learn, XGBoost, MLflow, feature engineering |
 
-## Projects
+## Academic Project
 
-### 1. University Student & Staff Attendance Intelligence Platform
+### University Student and Staff Attendance Intelligence Platform
+**February 2026 – July 2026**
 
-**Data Engineer / Data Analytics Project · February 2026 – Present**
+- Built a pipeline for a university attendance portal using Python, SQL, Airflow, and REST APIs to combine attendance, schedules, course, and faculty data with validation checks.
+- Developed attendance-risk workflows with Pandas, scikit-learn, and XGBoost to analyze recurring absences and generate risk indicators for students and classes requiring review.
+- Created curated datasets in AWS S3 and PostgreSQL, using Spark transformations and Power BI dashboards to report attendance trends, engagement, and daily and weekly KPIs.
+- Integrated Docker, Git, MLflow, and Airflow into pipeline and model workflows for version control, model tracking, scheduling, logging, and automated data refreshes.
 
-An end-to-end attendance data pipeline integrating attendance records, class schedules, courses, faculty information, and engagement data. The project description covers automated ingestion, transformation, validation, feature engineering, curated datasets, Power BI reporting, attendance-risk analysis, and MLflow tracking.
+[View the academic project case study and implementation](https://github.com/shahinashiny/Shahina-Portfolio/tree/main/projects/student-staff-attendance-intelligence)
 
-**Stack:** Python, SQL, Apache Airflow, REST APIs, AWS S3, PostgreSQL, Apache Spark, Power BI, Pandas, NumPy, Scikit-learn, XGBoost, Docker, Git, MLflow.
+## Education
 
-[Read the project case study](https://github.com/shahinashiny/Shahina-Portfolio/blob/main/projects/student-staff-attendance-intelligence/README.md) · [View portfolio](https://benevolent-wisp-556282.netlify.app/#work)
+**Master of Science (M.S.) in Data Analytics**  
+University of Niagara Falls, Ontario, Canada · **July 2026**
 
-*The linked case study is documentation based on the resume; runnable project source code and a live demo are not currently published in this repository.*
-
-### 2. Global E-Commerce Sales Data Pipeline on Azure
-
-An Azure workflow that ingests sales CSV files through Azure Data Factory, stores source data in ADLS Gen2, transforms and validates records with Synapse PySpark, writes cleaned Parquet data, and queries the results using Synapse Serverless SQL. The repository also includes SQL quality checks and execution documentation.
-
-[View project repository](https://github.com/shahinashiny/Customer_Account_Analysis_Pipeline_Shahina)
-
-### 3. Retail Sales Summary Tool
-
-A Python and pandas analytics workflow for cleaning retail transactions, calculating sales and profit summaries, ranking products and customers, and generating visualizations. The repository includes pytest coverage and GitHub Actions CI with Ruff checks.
-
-[View project repository](https://github.com/shahinashiny/Assignment2_Retail_Sales_Summary_Tool)
-
-### 4. Personal Portfolio Website
-
-A responsive static portfolio built with HTML, CSS, and JavaScript.
-
-[Visit the live portfolio](https://benevolent-wisp-556282.netlify.app/) · [View the source repository](https://github.com/shahinashiny/Shahina-Portfolio)
-
-## Let's connect
-
-I'm interested in connecting with data engineering professionals and teams working on cloud data platforms, reliable pipelines, analytics engineering, and data and AI solutions.
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
-- [Portfolio](https://benevolent-wisp-556282.netlify.app/)
+- [Portfolio](https://shahinashiny.github.io/Shahina-Portfolio/)
+- [Email](mailto:Shaikshahina1394@careerattainment.com)
 - [GitHub repositories](https://github.com/shahinashiny?tab=repositories)
 
-*Turning data into reliable pipelines and meaningful insights.*
+*Building dependable data pipelines and analytics-ready datasets.*
