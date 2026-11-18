@@ -1,68 +1,37 @@
-# Hi, I'm Shahina Shaik 👋
+<div align="center">
 
-**Data Engineer | Python | SQL | AWS | Snowflake**
+<img src="assets/pipeline-banner.png" width="1000" alt="Shahina Shaik, Data Engineer in Toronto. Pipeline stages are Ingest, Integrate, Transform, and Serve.">
 
-Toronto, Ontario, Canada
+[Pipeline walkthrough](#pipeline-walkthrough) · [Engineering toolbox](#engineering-toolbox) · [Explore repositories](https://github.com/shahinashiny?tab=repositories)
 
-I am a Data Engineer with **4+ years of experience** building ETL/ELT pipelines, cloud data platforms, and analytics datasets. I work with Python, SQL, PySpark, Kafka, Airflow, AWS, and Snowflake across batch and streaming workflows. My strengths include data validation, query optimization, workflow automation, and pipeline troubleshooting.
+<!-- Restore the LinkedIn, portfolio, and email links from the current profile README here before publishing. -->
 
-[LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a) · [Portfolio](https://shahinashiny.github.io/Shahina-Portfolio/) · [Email](mailto:Shaikshahina1394@careerattainment.com)
+</div>
 
-## Professional Experience
+## Pipeline walkthrough
 
-### LYFT — Data Engineer
-**Canada | August 2026 – Present**
+**Shahina Shaik · Data Engineer at Lyft · August 2026–Present**
 
-- Built streaming ingestion pipelines with Apache Kafka and PySpark to process transaction and payment events for downstream fraud analysis and machine learning.
-- Integrated transaction histories, customer profiles, and payment gateway records using AWS Glue and Snowflake for fraud risk analysis and model training.
-- Developed Python and SQL feature-engineering pipelines to calculate transaction frequency and spending velocity.
-- Orchestrated workflows with Apache Airflow, including dependencies, incremental loads, and scheduled Amazon S3 refreshes; reduced processing time from **90 to 65 minutes**.
-- Optimized Spark SQL transformations through partitioning and incremental processing, and tuned Snowflake queries.
-- Implemented Great Expectations checks for missing transactions and schema changes, and monitored pipeline failures with AWS CloudWatch.
+I build ETL/ELT pipelines and cloud datasets for analytics and machine learning. Over 4 years in data engineering, I’ve worked across batch and streaming workflows, from validating source data to tuning downstream queries.
 
-### Observe.AI — Data Engineer
-**India | January 2021 – December 2024**
+> **90 min → 65 min** processing time after orchestrating dependencies, incremental loads, and scheduled Amazon S3 refreshes with Apache Airflow.
 
-- Built ETL/ELT pipelines using AWS Glue, Azure Data Factory, Python, and Snowflake to integrate relational database and REST API data for enterprise analytics.
-- Optimized SQL queries, transformations, and Amazon Redshift storage structures for business intelligence reporting.
-- Automated recurring ingestion and processing with Apache Airflow and Python, reducing manual processing effort by approximately **30%** while improving scheduling consistency and pipeline reliability.
-- Implemented SQL and Python checks for duplicate, incomplete, and inconsistent records; used CloudWatch and Prometheus to investigate processing failures and data-quality issues.
-- Containerized data-processing applications with Docker and Kubernetes and coordinated API integrations and reusable data connectors.
+| Stage | What happens to the data | Tools |
+| --- | --- | --- |
+| **Ingest** | Transaction and payment events enter a streaming pipeline. | Kafka · PySpark |
+| **Integrate** | Transaction histories, customer profiles, and payment gateway records are combined. | AWS Glue · Snowflake |
+| **Transform** | Raw records become features such as transaction frequency and spending velocity. | Python · SQL |
+| **Serve** | Prepared datasets support fraud risk analysis and model training. | Snowflake |
 
-## Technical Skills
+## Engineering toolbox
 
-| Category | Skills |
-|---|---|
-| Programming and Processing | Python, SQL, PySpark, Spark SQL |
-| Pipelines and Integration | ETL/ELT, Apache Airflow, Apache Kafka, REST API integration, incremental loading |
-| Cloud and Data Platforms | AWS (S3, Glue, CloudWatch), Azure Data Factory, Snowflake, Amazon Redshift, PostgreSQL |
-| Modeling and Performance | Data warehousing, schema design, query tuning, partitioning |
-| Quality and Reliability | Great Expectations, SQL/Python validation, Prometheus, root cause analysis |
-| Development and Deployment | Git, Docker, Kubernetes, secure data access |
-| Analytics and ML Projects | Power BI, Pandas, NumPy, scikit-learn, XGBoost, MLflow, feature engineering |
+| **Build** | **Run** | **Improve** |
+| --- | --- | --- |
+| Python · SQL · PySpark | Kafka · Airflow | Data validation |
+| AWS Glue · Snowflake | Amazon S3 · Incremental loads | Query optimization · Pipeline troubleshooting |
 
-## Academic Project
+## Explore my work
 
-### University Student and Staff Attendance Intelligence Platform
-**February 2026 – July 2026**
+[Browse my GitHub repositories →](https://github.com/shahinashiny?tab=repositories)
 
-- Built a pipeline for a university attendance portal using Python, SQL, Airflow, and REST APIs to combine attendance, schedules, course, and faculty data with validation checks.
-- Developed attendance-risk workflows with Pandas, scikit-learn, and XGBoost to analyze recurring absences and generate risk indicators for students and classes requiring review.
-- Created curated datasets in AWS S3 and PostgreSQL, using Spark transformations and Power BI dashboards to report attendance trends, engagement, and daily and weekly KPIs.
-- Integrated Docker, Git, MLflow, and Airflow into pipeline and model workflows for version control, model tracking, scheduling, logging, and automated data refreshes.
-
-[View the academic project case study and implementation](https://github.com/shahinashiny/Shahina-Portfolio/tree/main/projects/student-staff-attendance-intelligence)
-
-## Education
-
-**Master of Science (M.S.) in Data Analytics**  
-University of Niagara Falls, Ontario, Canada · **July 2026**
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/shahina-shaik-8ba21a24a)
-- [Portfolio](https://shahinashiny.github.io/Shahina-Portfolio/)
-- [Email](mailto:Shaikshahina1394@careerattainment.com)
-- [GitHub repositories](https://github.com/shahinashiny?tab=repositories)
-
-*Building dependable data pipelines and analytics-ready datasets.*
+<!-- Add selected project links and any additional experience from your current README here. -->
